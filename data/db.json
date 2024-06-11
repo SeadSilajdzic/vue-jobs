@@ -1,0 +1,254 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Storage worker needed",
+            "details": "Worker for big storage facility needed asap"
+        },
+        {
+            "id": 2,
+            "title": "Web developer",
+            "details": "Looking for a web developer"
+        },
+        {
+            "id": 3,
+            "title": "Tutor for homework",
+            "details": "Looking for a math tutor for homework"
+        },
+        {
+            "id": 4,
+            "title": "Graphic designer",
+            "details": "Seeking experienced graphic designer for marketing materials"
+        },
+        {
+            "id": 5,
+            "title": "Data analyst",
+            "details": "Data analyst needed for financial firm"
+        },
+        {
+            "id": 6,
+            "title": "Sales associate",
+            "details": "Retail store looking for a sales associate"
+        },
+        {
+            "id": 7,
+            "title": "Customer service representative",
+            "details": "Customer service rep needed for call center"
+        },
+        {
+            "id": 8,
+            "title": "Software engineer",
+            "details": "Hiring software engineer with Java experience"
+        },
+        {
+            "id": 9,
+            "title": "Barista",
+            "details": "Coffee shop seeking friendly barista"
+        },
+        {
+            "id": 10,
+            "title": "Warehouse manager",
+            "details": "Manager needed for warehouse operations"
+        },
+        {
+            "id": 11,
+            "title": "Digital marketer",
+            "details": "Digital marketing specialist wanted"
+        },
+        {
+            "id": 12,
+            "title": "Project manager",
+            "details": "Looking for experienced project manager"
+        },
+        {
+            "id": 13,
+            "title": "Receptionist",
+            "details": "Receptionist position available at law firm"
+        },
+        {
+            "id": 14,
+            "title": "Chef",
+            "details": "Experienced chef needed for fine dining restaurant"
+        },
+        {
+            "id": 15,
+            "title": "Electrician",
+            "details": "Licensed electrician wanted for residential projects"
+        },
+        {
+            "id": 16,
+            "title": "Plumber",
+            "details": "Experienced plumber needed for commercial work"
+        },
+        {
+            "id": 17,
+            "title": "Content writer",
+            "details": "Content writer needed for blog articles"
+        },
+        {
+            "id": 18,
+            "title": "HR manager",
+            "details": "HR manager position available in tech company"
+        },
+        {
+            "id": 19,
+            "title": "Accountant",
+            "details": "Accountant needed for small business"
+        },
+        {
+            "id": 20,
+            "title": "Graphic artist",
+            "details": "Graphic artist wanted for video game company"
+        },
+        {
+            "id": 21,
+            "title": "Nurse",
+            "details": "Registered nurse needed for hospital"
+        },
+        {
+            "id": 22,
+            "title": "Truck driver",
+            "details": "CDL truck driver needed for long-haul routes"
+        },
+        {
+            "id": 23,
+            "title": "Teacher",
+            "details": "Elementary school teacher needed"
+        },
+        {
+            "id": 24,
+            "title": "Janitor",
+            "details": "Janitorial staff required for office building"
+        },
+        {
+            "id": 25,
+            "title": "Architect",
+            "details": "Architect wanted for urban development project"
+        },
+        {
+            "id": 26,
+            "title": "Personal trainer",
+            "details": "Certified personal trainer needed at gym"
+        },
+        {
+            "id": 27,
+            "title": "Librarian",
+            "details": "Librarian needed for community library"
+        },
+        {
+            "id": 28,
+            "title": "IT support specialist",
+            "details": "IT support specialist needed for help desk"
+        },
+        {
+            "id": 29,
+            "title": "Pharmacist",
+            "details": "Licensed pharmacist needed for retail pharmacy"
+        },
+        {
+            "id": 30,
+            "title": "Security guard",
+            "details": "Security guard needed for night shift"
+        },
+        {
+            "id": 31,
+            "title": "Real estate agent",
+            "details": "Real estate agent needed for growing firm"
+        },
+        {
+            "id": 32,
+            "title": "Veterinarian",
+            "details": "Veterinarian needed for animal clinic"
+        },
+        {
+            "id": 33,
+            "title": "Civil engineer",
+            "details": "Civil engineer wanted for infrastructure project"
+        },
+        {
+            "id": 34,
+            "title": "Marketing coordinator",
+            "details": "Marketing coordinator needed for events company"
+        },
+        {
+            "id": 35,
+            "title": "Translator",
+            "details": "Translator needed for legal documents"
+        },
+        {
+            "id": 36,
+            "title": "Event planner",
+            "details": "Event planner wanted for corporate events"
+        },
+        {
+            "id": 37,
+            "title": "Carpenter",
+            "details": "Experienced carpenter needed for home renovations"
+        },
+        {
+            "id": 38,
+            "title": "Fitness instructor",
+            "details": "Fitness instructor wanted for group classes"
+        },
+        {
+            "id": 39,
+            "title": "Mechanic",
+            "details": "Auto mechanic needed for busy repair shop"
+        },
+        {
+            "id": 40,
+            "title": "Bartender",
+            "details": "Bartender needed for popular nightclub"
+        },
+        {
+            "id": 41,
+            "title": "Bank teller",
+            "details": "Bank teller position available at local bank"
+        },
+        {
+            "id": 42,
+            "title": "Graphic designer",
+            "details": "Graphic designer wanted for ad agency"
+        },
+        {
+            "id": 43,
+            "title": "SEO specialist",
+            "details": "SEO specialist needed for e-commerce site"
+        },
+        {
+            "id": 44,
+            "title": "Photographer",
+            "details": "Photographer wanted for wedding photography"
+        },
+        {
+            "id": 45,
+            "title": "Hair stylist",
+            "details": "Hair stylist needed for upscale salon"
+        },
+        {
+            "id": 46,
+            "title": "UX designer",
+            "details": "UX designer needed for mobile app development"
+        },
+        {
+            "id": 47,
+            "title": "Research assistant",
+            "details": "Research assistant needed for university project"
+        },
+        {
+            "id": 48,
+            "title": "Chef",
+            "details": "Sous chef needed for hotel restaurant"
+        },
+        {
+            "id": 49,
+            "title": "Dog walker",
+            "details": "Dog walker needed for busy pet service"
+        },
+        {
+            "id": 50,
+            "title": "Social media manager",
+            "details": "Social media manager wanted for fashion brand"
+        }
+    ]
+}
